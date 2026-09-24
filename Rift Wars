@@ -1,0 +1,7 @@
+cd "C:\Users\zegam\OneDrive\Desktop\Rift Wars Bot"
+git init
+git add .
+git commit -m "Initial Rift Wars commit"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/your-repo-name.git
+git push -u origin main
